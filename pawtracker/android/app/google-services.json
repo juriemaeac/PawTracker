@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745273228894",
+    "firebase_url": "https://pawtrackeriot-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pawtrackeriot",
+    "storage_bucket": "pawtrackeriot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745273228894:android:c760c2cd34270a5fff7ecf",
+        "android_client_info": {
+          "package_name": "com.example.pawtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745273228894-hoit1skol7g4s8v4epip7g08qj7mdpfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEXFD-CwatnjtIcTuldgNdd_yJrSEi_UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745273228894-hoit1skol7g4s8v4epip7g08qj7mdpfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
