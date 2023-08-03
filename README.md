@@ -34,6 +34,7 @@ On the software side, PawTracker provides cloud storage and RTDB, cloud authenti
 # DEVELOPERS
 Jurie Mae Castronuevo; Eadrian Basila
 
+See original repository (with commits): https://github.com/EadrianBasila/PawTracker
 
 
 
